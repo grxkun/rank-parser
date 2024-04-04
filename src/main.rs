@@ -1,7 +1,3 @@
-use std::fs::File;
-use std::io::{self, BufRead};
-use std::path::Path;
-
 // Add your parsing logic here
 
 fn main() {
